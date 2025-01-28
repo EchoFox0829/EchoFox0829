@@ -1,4 +1,6 @@
-<img align="left" height="180" src="https://github.com/EchoFox0829/webinargit/blob/master/Daco_5987479.png?raw=true"  />
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -63,6 +65,14 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<img align="left" height="180" src="https://github.com/EchoFox0829/webinargit/blob/master/Daco_5987479.png?raw=true"  />
 
 ###
 
